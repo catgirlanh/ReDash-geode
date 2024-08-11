@@ -1,3 +1,6 @@
+
+## <cy>v1.1.4</c> (2024-08-11)
+bruh
 # Overcharged Main Menu Changelog
 ## v1.1.2
 - Fixed another silly incompat with GD Intercept!!
